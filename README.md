@@ -1,1 +1,2 @@
 # NavigationCenterUpBar
+这是一个自己写的底部导航栏中间按钮凸起，配合fragment切换的demo
